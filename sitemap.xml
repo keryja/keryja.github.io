@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.keryja.tv/games/factorio/</loc>
+    <lastmod>2016-05-17T01:52:01-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.keryja.tv/games/stardew-valley/</loc>
+    <lastmod>2016-05-17T01:52:01-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.keryja.tv/games/witcher3/</loc>
+    <lastmod>2016-05-17T01:52:01-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.keryja.tv/resources/bastion/</loc>
+    <lastmod>2016-05-17T01:52:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.keryja.tv/resources/borderlands2/</loc>
+    <lastmod>2016-05-17T01:52:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.keryja.tv/resources/darksouls/</loc>
+    <lastmod>2016-05-17T01:52:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.keryja.tv/resources/darksouls2/</loc>
+    <lastmod>2016-05-17T01:52:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.keryja.tv/resources/dirtybomb/</loc>
+    <lastmod>2016-05-17T01:52:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.keryja.tv/resources/factorio/</loc>
+    <lastmod>2016-05-17T01:52:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.keryja.tv/hardware/</loc>
+    <lastmod>2016-05-17T01:52:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.keryja.tv/resources/panel-headers/</loc>
+    <lastmod>2016-05-17T01:52:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.keryja.tv/resources/social-buttons/</loc>
+    <lastmod>2016-05-17T01:52:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.keryja.tv/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.keryja.tv/games/</loc>
+    <lastmod>2016-05-17T01:52:01-02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.keryja.tv/</loc>
+    <lastmod>2016-05-17T01:52:01-02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.keryja.tv/resources/</loc>
+    <lastmod>2016-05-17T01:52:01+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.keryja.tv/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
